@@ -1,0 +1,14 @@
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\bin\Debug\net8.0\azure-ai-learning-playground.exe
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\bin\Debug\net8.0\azure-ai-learning-playground.deps.json
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\bin\Debug\net8.0\azure-ai-learning-playground.runtimeconfig.json
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\bin\Debug\net8.0\azure-ai-learning-playground.dll
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\bin\Debug\net8.0\azure-ai-learning-playground.pdb
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.AssemblyInfoInputs.cache
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.AssemblyInfo.cs
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.csproj.CoreCompileInputs.cache
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.dll
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\refint\azure-ai-learning-playground.dll
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.pdb
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\azure-ai-learning-playground.genruntimeconfig.cache
+C:\Users\ArjunSridharan\source\repos\azure-ai-learning-playground\azure-ai-learning-playground\obj\Debug\net8.0\ref\azure-ai-learning-playground.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "azure-ai-learning-playground/1.0.0": {
+        "runtime": {
+          "azure-ai-learning-playground.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "azure-ai-learning-playground/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
